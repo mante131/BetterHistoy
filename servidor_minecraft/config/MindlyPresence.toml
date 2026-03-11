@@ -1,0 +1,13 @@
+
+["Mindly Presence Difficulty"]
+	#Difficulty - how fast stress grow/reduce. Values: easy, normal, hard. Default: normal
+	Difficulty = "normal"
+
+["Torch Change Chance"]
+	#Define how frequently normal torch can change to red or soul. Values: tiny, rare, normal
+	Torch = "normal"
+
+["Door Open Chance"]
+	#Define how frequently doors are opening/closing with low stress lvl. Values: tiny, rare, normal
+	Torch = "normal"
+
